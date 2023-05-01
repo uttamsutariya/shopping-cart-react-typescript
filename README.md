@@ -1,6 +1,6 @@
 # Live URL
 
-### [https://shopping-cart-react-ts.vercel.app](https://shopping-cart-react-ts.vercel.app)
+### [https://shopping-cart-react-ts.vercel.app](https://shopping-cart-react-ts-uttam-sutariya.vercel.app/)
 
 <br>
 
